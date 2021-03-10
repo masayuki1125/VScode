@@ -1,0 +1,27 @@
+2021-03-09 20:28:53 +0900
+
+/usr/local/Cellar/python@3.9/3.9.2_1/bin/pip3
+wheel
+--wheel-dir=/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ensurepip/_bundled
+/usr/local/Cellar/python@3.9/3.9.2_1/libexec/setuptools
+/usr/local/Cellar/python@3.9/3.9.2_1/libexec/pip
+
+WARNING: The directory '/Users/masayukikaneko/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Processing /usr/local/Cellar/python@3.9/3.9.2_1/libexec/setuptools
+Processing /usr/local/Cellar/python@3.9/3.9.2_1/libexec/pip
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Building wheels for collected packages: pip, setuptools
+  Building wheel for pip (PEP 517): started
+  Building wheel for pip (PEP 517): finished with status 'done'
+  Created wheel for pip: filename=pip-21.0.1-py3-none-any.whl size=1539184 sha256=69d4153671faebd35c48efc58256abdc998b8a7f681e4e3770dc76bd6d696906
+  Stored in directory: /private/tmp/pip-ephem-wheel-cache-j9vaoeie/wheels/28/e4/6d/7969d4735729cafa2f92fd724e103187d8911c37ca1966bc45
+  Building wheel for setuptools (setup.py): started
+  Building wheel for setuptools (setup.py): finished with status 'done'
+  Created wheel for setuptools: filename=setuptools-53.0.0-py3-none-any.whl size=784513 sha256=7424db552be8dbe54ad9c0e0cd27544a0cefd526941796ea4fb4f31ccd6a2145
+  Stored in directory: /private/tmp/pip-ephem-wheel-cache-j9vaoeie/wheels/c2/2f/ad/274d288646c281021a2f42f508f62ca574e56a144713e25f67
+Successfully built pip setuptools

@@ -1,0 +1,21 @@
+[2021-03-03 22:30:26.610] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-03-03 22:30:26.610] [remoteagent] [info] Extension host agent started.
+[2021-03-03 22:30:26.722] [remoteagent] [info] [127.0.0.1][66e9b683][ManagementConnection] New connection established.
+[2021-03-03 22:30:26.724] [remoteagent] [info] [127.0.0.1][f0ec5924][ExtensionHostConnection] New connection established.
+[2021-03-03 22:30:26.775] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/Users/masayukikaneko/.vscode'
+[2021-03-03 22:30:26.811] [remoteagent] [info] [127.0.0.1][f0ec5924][ExtensionHostConnection] <4042> Launched Extension Host Process.
+[2021-03-03 23:15:13.475] [remoteagent] [info] [127.0.0.1][f0ec5924][ExtensionHostConnection] The client has reconnected.
+[2021-03-03 23:15:23.901] [remoteagent] [info] [127.0.0.1][66e9b683][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-03-04 02:15:17.419] [remoteagent] [info] [127.0.0.1][f0ec5924][ExtensionHostConnection] <4042> Extension Host Process exited with code: 0, signal: null.
+[2021-03-04 02:15:17.419] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-04 02:15:23.450] [remoteagent] [info] [127.0.0.1][66e9b683][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-03-04 02:20:17.418] [remoteagent] [info] Last EH closed, shutting down

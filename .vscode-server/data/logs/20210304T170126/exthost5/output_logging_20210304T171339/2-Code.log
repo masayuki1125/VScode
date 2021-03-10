@@ -1,0 +1,18 @@
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+LDPCv.c:542:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+0.000000,0.00166528
+1.000000,0.000247504
+
+[Done] exited with code=0 in 224.051 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+LDPCv.c:255:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+
+[Done] exited with code=null in 645.755 seconds
+

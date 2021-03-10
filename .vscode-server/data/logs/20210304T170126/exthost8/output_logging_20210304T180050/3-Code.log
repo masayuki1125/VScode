@@ -1,0 +1,10 @@
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  7235 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.143 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  7279 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 2.57 seconds
+

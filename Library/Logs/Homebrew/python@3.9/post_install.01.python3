@@ -1,0 +1,15 @@
+2021-03-09 20:28:37 +0900
+
+/usr/local/Cellar/python@3.9/3.9.2_1/bin/python3
+-m
+ensurepip
+
+Looking in links: /private/tmp/tmp84a5ed6q
+Processing /private/tmp/tmp84a5ed6q/setuptools-49.2.1-py3-none-any.whl
+Processing /private/tmp/tmp84a5ed6q/pip-20.2.3-py2.py3-none-any.whl
+Installing collected packages: setuptools, pip
+  WARNING: The script easy_install-3.9 is installed in '/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pip3 and pip3.9 are installed in '/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-20.2.3 setuptools-49.2.1

@@ -1,0 +1,30 @@
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.028 seconds
+

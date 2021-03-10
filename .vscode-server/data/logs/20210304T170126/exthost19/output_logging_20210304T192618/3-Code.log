@@ -1,0 +1,689 @@
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00677856
+0.200000,0.00531736
+0.400000,0.00502537
+0.600000,0.0039071
+0.800000,0.00255092
+1.000000,0.00184795
+1.200000,0.00159381
+1.400000,0.00132633
+1.600000,0.00101902
+1.800000,0.000875718
+
+[Done] exited with code=0 in 16.262 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  9426 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.159 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00729796
+0.200000,0.00524691
+0.400000,0.00428465
+0.600000,0.0031576
+0.800000,0.0025425
+1.000000,0.00198978
+1.200000,0.00173272
+1.400000,0.00146349
+1.600000,0.00101053
+1.800000,0.000883131
+
+[Done] exited with code=0 in 16.259 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  9556 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 13.645 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00650533
+0.200000,0.00526482
+0.400000,0.00403809
+0.600000,0.00336326
+0.800000,0.00257759
+1.000000,0.00202306
+1.200000,0.00185534
+1.400000,0.00131752
+1.600000,0.00110171
+1.800000,0.00079505
+
+[Done] exited with code=0 in 16.149 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00645181
+0.200000,0.00503513
+0.400000,0.00432889
+0.600000,0.00304493
+0.800000,0.00285178
+1.000000,0.00210507
+1.200000,0.00154418
+1.400000,0.0012469
+1.600000,0.00114915
+1.800000,0.00081563
+
+[Done] exited with code=0 in 16.402 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00261351
+0.200000,0.00171788
+0.400000,0.00113141
+0.600000,0.000816722
+0.800000,0.000583056
+1.000000,0.000475729
+1.200000,0.000301626
+1.400000,0.000293758
+1.600000,0.000208359
+1.800000,0.000163833
+
+[Done] exited with code=0 in 381.673 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00184692
+0.200000,0.000910288
+0.400000,0.000622111
+0.600000,0.000463464
+0.800000,0.000359956
+1.000000,0.000249584
+1.200000,0.000168084
+1.400000,0.000193254
+1.600000,0.000103102
+1.800000,8.72677e-05
+
+[Done] exited with code=0 in 1804.286 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00143095
+0.200000,0.00117859
+0.400000,0.000766084
+0.600000,0.000419093
+0.800000,0.000287854
+1.000000,0.000209175
+1.200000,0.000155913
+1.400000,0.000155297
+1.600000,0.0001033
+1.800000,8.70078e-05
+2.000000,5.84096e-05
+2.200000,6.0286e-05
+2.400000,4.46226e-05
+2.600000,3.15762e-05
+2.800000,2.7215e-05
+3.000000,1.9258e-05
+3.200000,1.69602e-05
+3.400000,1.48983e-05
+3.600000,1.04925e-05
+3.800000,7.8365e-06
+4.000000,6.16257e-06
+4.200000,4.55525e-06
+4.400000,3.95096e-06
+4.600000,2.65915e-06
+4.800000,1.92848e-06
+5.000000,1.402e-06
+
+[Done] exited with code=0 in 55892.311 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0788796
+0.200000,0.0738491
+0.400000,0.0694107
+0.600000,0.0646866
+0.800000,0.060294
+1.000000,0.0562368
+1.200000,0.0517083
+1.400000,0.0479382
+1.600000,0.0444897
+1.800000,0.041112
+2.000000,0.0371755
+2.200000,0.0345383
+2.400000,0.0312784
+2.600000,0.0279243
+2.800000,0.0255643
+3.000000,0.0228758
+3.200000,0.0205297
+3.400000,0.0180976
+3.600000,0.0162549
+3.800000,0.0143123
+4.000000,0.0125277
+4.200000,0.0109082
+4.400000,0.00938991
+4.600000,0.00810871
+4.800000,0.00700361
+5.000000,0.00592623
+
+[Done] exited with code=0 in 67.009 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00206718
+0.200000,0.00186785
+0.400000,0.00122924
+0.600000,0.000876444
+0.800000,0.000629568
+1.000000,0.000382798
+1.200000,0.000373939
+1.400000,0.000263012
+1.600000,0.000211025
+1.800000,0.000161367
+2.000000,0.000129542
+2.200000,0.000100854
+2.400000,8.66902e-05
+2.600000,6.29845e-05
+2.800000,5.07903e-05
+3.000000,4.29338e-05
+3.200000,3.50449e-05
+3.400000,2.9019e-05
+3.600000,1.97136e-05
+3.800000,1.56131e-05
+4.000000,1.31654e-05
+4.200000,9.67789e-06
+4.400000,7.46466e-06
+4.600000,5.69075e-06
+4.800000,4.12092e-06
+5.000000,2.8585e-06
+
+[Done] exited with code=0 in 11344.715 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00648286
+0.200000,0.00516198
+0.400000,0.0040203
+0.600000,0.00350638
+0.800000,0.0026797
+1.000000,0.0020311
+1.200000,0.0583333
+1.400000,0.00120896
+1.600000,0.00106324
+1.800000,0.00087014
+2.000000,0.000652773
+2.200000,0.000504608
+2.400000,0.000429838
+2.600000,0.000356472
+2.800000,0.0002785
+3.000000,0.000238654
+3.200000,0.000166564
+3.400000,0.000140688
+3.600000,0.000264098
+3.800000,0.000275488
+4.000000,6.21133e-05
+4.200000,0.000156408
+4.400000,8.2004e-05
+4.600000,0.000128368
+4.800000,7.04549e-05
+5.000000,4.26008e-05
+
+[Done] exited with code=0 in 256.103 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 29913 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 57.448 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 29957 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 198.864 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30047 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 40.59 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30085 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 131.711 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30179 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.123 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30185 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.124 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30217 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 60.163 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv 120.c -o LDPCv 120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv 120
+clang: error: no such file or directory: '120.c'
+clang: error: no such file or directory: '120'
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv120.c -o LDPCv120 && "/Users/masayukikaneko/LDPCkaneko/"LDPCv120
+/bin/sh: line 1: 30399 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv120
+
+[Done] exited with code=139 in 434.954 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30540 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 105.076 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30602 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 56.906 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0471774
+0.200000,0.0785618
+0.400000,0.041129
+0.600000,0.0363911
+0.800000,0.0713038
+1.000000,0.0521953
+1.200000,0.049832
+1.400000,0.0698253
+1.600000,0.0713038
+1.800000,0.069086
+2.000000,0.0654122
+2.200000,0.0314068
+2.400000,0.0433468
+2.600000,0.0449821
+2.800000,0.05681
+3.000000,0.0423723
+3.200000,0.0423387
+3.400000,0.0377016
+3.600000,0.0354167
+3.800000,0.0325269
+4.000000,0.0334946
+4.200000,0.0285484
+4.400000,0.017503
+4.600000,0.0217934
+4.800000,0.0209677
+5.000000,0.0137366
+
+[Done] exited with code=0 in 53.46 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 30689 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 69.903 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0930328
+0.200000,0.0891393
+0.400000,0.0870219
+0.600000,0.0892077
+0.800000,0.0873634
+1.000000,0.0896858
+1.200000,0.0881148
+1.400000,0.0881148
+1.600000,0.0859973
+1.800000,0.0836749
+2.000000,0.0831967
+2.200000,0.0838798
+2.400000,0.0806694
+2.600000,0.0804645
+2.800000,0.0813525
+3.000000,0.0795765
+3.200000,0.0787568
+3.400000,0.0765027
+3.600000,0.075
+3.800000,0.072541
+4.000000,0.0739071
+4.200000,0.0723361
+4.400000,0.0709016
+4.600000,0.0704918
+4.800000,0.08898
+5.000000,0.0857468
+
+[Done] exited with code=0 in 11.071 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0775538
+0.200000,0.106048
+0.400000,0.103024
+0.600000,0.0999328
+0.800000,0.10504
+1.000000,0.099328
+1.200000,0.100672
+1.400000,0.0998656
+1.600000,0.0952957
+1.800000,0.0954301
+2.000000,0.0978495
+2.200000,0.0943548
+2.400000,0.097379
+2.600000,0.0941532
+2.800000,0.0853943
+3.000000,0.0862903
+3.200000,0.0881048
+3.400000,0.0847222
+3.600000,0.0875672
+3.800000,0.0874328
+4.000000,0.078629
+4.200000,0.0778226
+4.400000,0.0770161
+4.600000,0.0759409
+4.800000,0.0697581
+5.000000,0.0692204
+
+[Done] exited with code=0 in 29.821 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0934426
+0.200000,0.0911885
+0.400000,0.0922814
+0.600000,0.0866803
+0.800000,0.0888661
+1.000000,0.0853825
+1.200000,0.0838798
+1.400000,0.0862705
+1.600000,0.0819672
+1.800000,0.0842896
+2.000000,0.0814891
+2.200000,0.0853142
+2.400000,0.0810109
+2.600000,0.0821038
+2.800000,0.0785519
+3.000000,0.0791667
+3.200000,0.075888
+3.400000,0.0771175
+3.600000,0.075
+3.800000,0.0751366
+4.000000,0.0719262
+4.200000,0.0692623
+4.400000,0.0705601
+4.600000,0.069194
+4.800000,0.0875683
+5.000000,0.0879781
+
+[Done] exited with code=0 in 11.217 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0918909
+0.200000,0.0916473
+0.400000,0.0901024
+0.600000,0.0896705
+0.800000,0.0884635
+1.000000,0.088732
+1.200000,0.0874225
+1.400000,0.0866999
+1.600000,0.0859136
+1.800000,0.0847204
+2.000000,0.0845626
+2.200000,0.0835742
+2.400000,0.0832364
+2.600000,0.0822924
+2.800000,0.0817691
+3.000000,0.081459
+3.200000,0.0798865
+3.400000,0.0787403
+3.600000,0.0766556
+3.800000,0.0755759
+4.000000,0.0749363
+4.200000,0.073624
+4.400000,0.0720072
+4.600000,0.0698228
+4.800000,0.0680399
+5.000000,0.0652104
+
+[Done] exited with code=0 in 1078.212 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0791417
+0.200000,0.0733776
+0.400000,0.0701772
+0.600000,0.0650498
+0.800000,0.0598228
+1.000000,0.0568605
+1.200000,0.0517774
+1.400000,0.0486323
+1.600000,0.0449612
+1.800000,0.0406866
+2.000000,0.036722
+2.200000,0.0339978
+2.400000,0.0316168
+2.600000,0.0280952
+2.800000,0.0257198
+3.000000,0.0225194
+3.200000,0.020753
+3.400000,0.0179402
+3.600000,0.0162514
+3.800000,0.0142968
+4.000000,0.0127464
+4.200000,0.0110465
+4.400000,0.0094186
+4.600000,0.00815615
+4.800000,0.0070598
+5.000000,0.0057835
+
+[Done] exited with code=0 in 8.02 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 1105.156 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 358.099 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 16.284 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 31596 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.613 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 31629 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.188 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1: 31663 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 5.998 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 13.521 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.069401
+0.200000,0.0762649
+0.400000,0.0631944
+0.600000,0.0541146
+0.800000,0.0797619
+1.000000,0.0643519
+1.200000,0.0532197
+1.400000,0.0525
+1.600000,0.0612269
+1.800000,0.0636574
+2.000000,0.0526042
+2.200000,0.0576562
+2.400000,0.0583912
+2.600000,0.0534896
+2.800000,0.0485795
+3.000000,0.0413061
+3.200000,0.0421875
+3.400000,0.0481061
+3.600000,0.0385417
+3.800000,0.0275768
+4.000000,0.0319853
+4.200000,0.0261161
+4.400000,0.0228714
+4.600000,0.0248264
+4.800000,0.0161301
+5.000000,0.0176579
+
+[Done] exited with code=0 in 33.049 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0761905
+0.200000,0.075372
+0.400000,0.0686198
+0.600000,0.0671875
+0.800000,0.0587384
+1.000000,0.0566146
+1.200000,0.0508996
+1.400000,0.0473958
+1.600000,0.0458333
+1.800000,0.0409054
+2.000000,0.0366319
+2.200000,0.0347569
+2.400000,0.0307904
+2.600000,0.0282346
+2.800000,0.0265365
+3.000000,0.0230072
+3.200000,0.0205329
+3.400000,0.0176042
+3.600000,0.0157935
+3.800000,0.0142314
+4.000000,0.0123425
+4.200000,0.011281
+4.400000,0.0091954
+4.600000,0.00791509
+4.800000,0.00704533
+5.000000,0.0062004
+
+[Done] exited with code=0 in 0.378 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0733073
+0.200000,0.077753
+0.400000,0.0688151
+0.600000,0.0745536
+0.800000,0.0660807
+1.000000,0.0660156
+1.200000,0.0609954
+1.400000,0.0621528
+1.600000,0.0666667
+1.800000,0.0601852
+2.000000,0.0729818
+2.200000,0.0651042
+2.400000,0.0553125
+2.600000,0.0319547
+2.800000,0.009375
+3.000000,4.35986e-05
+3.200000,0.00631903
+3.400000,0.000237411
+3.600000,0.0387277
+3.800000,0.00167695
+4.000000,0.044184
+4.200000,0.0312194
+4.400000,0.0292824
+4.600000,0.0249752
+4.800000,0.0181214
+5.000000,2.27359e-05
+
+[Done] exited with code=0 in 158.891 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0616497
+0.200000,0.0542208
+0.400000,0.0538372
+0.600000,0.0668651
+0.800000,0.0783991
+1.000000,0.0510913
+1.200000,0.0732001
+1.400000,0.073824
+1.600000,0.0455447
+1.800000,0.075744
+2.000000,0.0717829
+2.200000,0.0598214
+2.400000,0.042602
+2.600000,0.0665344
+2.800000,0.0728804
+3.000000,0.0756696
+3.200000,0.0748512
+3.400000,0.0322901
+3.600000,0.0294409
+3.800000,0.029616
+4.000000,0.021022
+4.200000,0.0190704
+4.400000,0.0382007
+4.600000,0.031157
+4.800000,0.0316616
+5.000000,0.0243419
+
+[Done] exited with code=0 in 14.83 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+parity check matrix is wrong!
+[Done] exited with code=1 in 0.122 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+parity check matrix is wrong!
+[Done] exited with code=1 in 0.122 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00452509
+parity check matrix is wrong!
+[Done] exited with code=1 in 1.948 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!0.000000,0.0814516
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!0.200000,0.0766129
+parity check matrix is wrong!0.400000,0.0132942
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!0.600000,0.074664
+parity check matrix is wrong!parity check matrix is wrong!0.800000,0.0199693
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!1.000000,0.0698253
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!1.200000,0.0682796
+parity check matrix is wrong!parity check matrix is wrong!1.400000,0.0149597
+parity check matrix is wrong!1.600000,0.00316642
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!1.800000,0.0594086
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!2.000000,0.0644713
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!2.200000,0.0630376
+parity check matrix is wrong!parity check matrix is wrong!2.400000,0.00663722
+2.600000,8.95164e-06
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!2.800000,0.0554211
+parity check matrix is wrong!parity check matrix is wrong!3.000000,0.00191201
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!3.200000,0.0543011
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!3.400000,0.0533602
+parity check matrix is wrong!3.600000,5.63177e-05
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!3.800000,0.0456093
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!4.000000,0.0454301
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!4.200000,0.043246
+4.400000,3.57946e-05
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!4.600000,0.0358535
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!4.800000,0.0227599
+parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!parity check matrix is wrong!5.000000,0.0168851
+
+[Done] exited with code=0 in 1042.425 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0068306
+0.200000,0.0056776
+0.400000,0.00489526
+0.600000,0.00401639
+0.800000,0.00296477
+1.000000,0.00240629
+1.200000,0.00169163
+1.400000,0.00151324
+1.600000,0.0011758
+1.800000,0.000975525
+2.000000,0.000763959
+2.200000,0.000712081
+2.400000,0.000528058
+2.600000,0.000404178
+2.800000,0.000316965
+3.000000,0.000283103
+3.200000,0.000233525
+3.400000,0.00017398
+3.600000,0.000130113
+3.800000,0.000106195
+4.000000,8.13167e-05
+4.200000,6.35109e-05
+4.400000,4.91725e-05
+4.600000,3.48671e-05
+4.800000,2.50756e-05
+5.000000,2.11376e-05
+
+[Done] exited with code=0 in 382.591 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 79748.718 seconds
+

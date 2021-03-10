@@ -1,0 +1,52 @@
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+0.000000,0.0123162
+0.200000,0.0104688
+0.400000,0.00927778
+0.600000,0.00738938
+0.800000,0.00507576
+1.000000,0.00467412
+1.200000,0.00370411
+1.400000,0.00305556
+1.600000,0.00297153
+1.800000,0.00199129
+
+[Done] exited with code=0 in 5.046 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  7739 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 3.114 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+0.000000,0.00694672
+0.200000,0.00519632
+0.400000,0.00413976
+0.600000,0.00313587
+0.800000,0.00273224
+1.000000,0.00215427
+1.200000,0.0016491
+1.400000,0.00142446
+1.600000,0.00106242
+1.800000,0.000862363
+
+[Done] exited with code=0 in 16.177 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 786.253 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8070 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.131 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8113 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.211 seconds
+
+[Running] cd "/Users/masayukikaneko/VScode/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8162 Segmentation fault: 11  "/Users/masayukikaneko/VScode/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.177 seconds
+

@@ -1,0 +1,101 @@
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8611 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.125 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8617 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.24 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8652 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.265 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8657 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.259 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8662 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.271 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8668 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.461 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8674 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.165 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.0170238
+0.200000,0.010129
+0.400000,0.00744792
+0.600000,0.00758333
+0.800000,0.00578704
+1.000000,0.00499002
+1.200000,0.00345041
+1.400000,0.00305556
+1.600000,0.0025
+1.800000,0.00188111
+
+[Done] exited with code=0 in 5.254 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8753 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 0.974 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+/bin/sh: line 1:  8813 Segmentation fault: 11  "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=139 in 4.577 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00704235
+0.200000,0.00531736
+0.400000,0.00414804
+0.600000,0.00330146
+0.800000,0.00283818
+1.000000,0.002386
+1.200000,0.00151774
+1.400000,0.00142731
+1.600000,0.000995882
+1.800000,0.000834666
+
+[Done] exited with code=0 in 16.245 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00635867
+0.200000,0.0055082
+0.400000,0.00429474
+0.600000,0.00333724
+0.800000,0.00293431
+1.000000,0.00202708
+1.200000,0.00164585
+1.400000,0.00125332
+1.600000,0.00105086
+1.800000,0.000889752
+
+[Done] exited with code=0 in 16.151 seconds
+
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+0.000000,0.00651835
+0.200000,0.0051862
+0.400000,0.00461293
+0.600000,0.00337532
+0.800000,0.00279915
+1.000000,0.00215804
+1.200000,0.00162959
+1.400000,0.00129781
+1.600000,0.00106324
+1.800000,0.000879332
+
+[Done] exited with code=0 in 16.199 seconds
+

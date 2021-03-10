@@ -1,0 +1,21 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 51879
+
+[13:25:55] Extension host agent started.
+[13:25:55] [127.0.0.1][314b51f0][ManagementConnection] New connection established.
+[13:25:55] [127.0.0.1][e9654eda][ExtensionHostConnection] New connection established.
+[13:25:55] [127.0.0.1][e9654eda][ExtensionHostConnection] <49769> Launched Extension Host Process.
+[13:25:58] Installing extension: ms-python.python
+[13:26:00] Downloaded extension: ms-python.python undefined
+[13:26:02] Extracted extension to /Users/masayukikaneko/.vscode-server/extensions/.ms-python.python-2021.2.633441544: ms-python.python
+[13:26:02] Renamed to /Users/masayukikaneko/.vscode-server/extensions/ms-python.python-2021.2.633441544
+[13:26:02] Installation completed. ms-python.python
+[13:26:03] Extensions installed successfully: ms-python.python

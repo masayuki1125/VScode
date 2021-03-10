@@ -1,0 +1,16 @@
+次の場所で Git を検索しています: /usr/bin/git
+/usr/bin/git から Git 2.20.1 (Apple Git-117) を使用しています
+> git init
+> git rev-parse --git-dir
+Open repository: /Users/masayukikaneko/LDPCkaneko
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:LDPCv.c
+> git ls-tree -l HEAD -- /Users/masayukikaneko/LDPCkaneko/LDPCv.c
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin

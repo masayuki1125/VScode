@@ -1,0 +1,4 @@
+[Running] cd "/Users/masayukikaneko/LDPCkaneko/" && gcc LDPCv.c -o LDPCv && "/Users/masayukikaneko/LDPCkaneko/"LDPCv
+
+[Done] exited with code=null in 807.638 seconds
+

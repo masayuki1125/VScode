@@ -1,0 +1,16 @@
+Updating C/C++ dependencies...
+
+Downloading package 'C/C++ language components (OS X)' (12071 KB)  Done!
+Downloading package 'ClangFormat (OS X)' (964 KB)  Done!
+Downloading package 'Mono Framework Assemblies' (5368 KB)  Done!
+Downloading package 'Mono Runtime (OS X)' (1676 KB)  Done!
+Downloading package 'LLDB-MI (macOS Mojave and higher)' (829 KB)  Done!
+
+Installing package 'C/C++ language components (OS X)'
+Installing package 'ClangFormat (OS X)'
+Installing package 'Mono Framework Assemblies'
+Installing package 'Mono Runtime (OS X)'
+Installing package 'LLDB-MI (macOS Mojave and higher)'
+
+Finished installing dependencies
+
